@@ -5,3 +5,4 @@ This challenged required the capabilites of mysql in order to run an application
 ## Usage
 This application requires inqurier, console.table, and mysql2 to run. To install run "npm i", "npm install console.table --save", "npm install --save mysql2". Once installed the user will be asked a number of questions in the terminal to update their employee database. 
 ## Demo
+https://drive.google.com/file/d/1PYF5cQQUgyA1YNmBZKD4LqVsmpjk6_39/view?usp=sharing
